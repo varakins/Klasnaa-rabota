@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\gitt\Klasnaa-rabota\styles\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+C:\Users\student\Desktop\gitt\Klasnaa-rabota\styles\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+C:\Users\student\Desktop\gitt\Klasnaa-rabota\styles\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
+C:\Users\student\Desktop\gitt\Klasnaa-rabota\styles\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\gitt\Klasnaa-rabota\styles\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\gitt\Klasnaa-rabota\styles\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+C:\Users\student\Desktop\gitt\Klasnaa-rabota\styles\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb
